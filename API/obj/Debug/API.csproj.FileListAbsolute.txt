@@ -1,0 +1,6 @@
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPac\API\bin\API.dll.config
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPac\API\bin\API.dll
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPac\API\bin\API.pdb
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPac\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPac\API\obj\Debug\API.dll
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPac\API\obj\Debug\API.pdb
